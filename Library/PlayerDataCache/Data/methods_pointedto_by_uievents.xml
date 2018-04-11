@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UIManager">
+			<method name="GameStartButton"/>
+			<method name="WaterSelectButton"/>
+			<method name="WindSelectButton"/>
+			<method name="IceSelectButton"/>
+			<method name="CharacterSelectButton"/>
+			<method name="SoilSelectButton"/>
+			<method name="FireSelectButton"/>
+			<method name="Story1Button"/>
+			<method name="Story2Button"/>
+			<method name="Story3Button"/>
+			<method name="BadToStart"/>
+		</type>
+	</assembly>
+</linker>
